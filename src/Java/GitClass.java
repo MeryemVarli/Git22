@@ -1,3 +1,5 @@
+package Java;
+
 public class GitClass {
 
 
@@ -5,5 +7,6 @@ public class GitClass {
 
         System.out.println("hello git");
         System.out.println("Git add");
+        System.out.println("git commit");
     }
 }
